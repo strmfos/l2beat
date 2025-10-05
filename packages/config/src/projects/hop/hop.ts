@@ -16,9 +16,11 @@ export const hop: Bridge = {
     links: {
       websites: ['https://hop.exchange/'],
       repositories: ['https://github.com/hop-protocol'],
+      
       socialMedia: [
         'https://twitter.com/HopProtocol',
         'https://medium.com/hop-protocol',
+        'https://discord.com/invite/PwCF88emV4',
       ],
     },
     description:
